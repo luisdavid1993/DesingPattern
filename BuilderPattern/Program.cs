@@ -1,5 +1,6 @@
 ﻿using BuilderPattern;
 /// <summary>
+/// CREATIONAL
 /// Builder Pattern
 /// Help us to separate the construction of a complex object from its representation. 
 /// The same construction process can create difference representations. 

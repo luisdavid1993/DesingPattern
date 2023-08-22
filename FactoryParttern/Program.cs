@@ -3,6 +3,7 @@
 internal class Program
 {
     /// <summary>
+    /// CREATIONAL
     /// The Factory Method defines an interface for creating objects
     /// /but lets subclasses decide which classes to instantiate. 
     /// The Factory method lets a class defer instantiation to subclass.
