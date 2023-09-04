@@ -26,6 +26,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DA715931-C7E2-4E88-B061-99D34E616BF3}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		Notas.docx = Notas.docx
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05_Adapter", "05_Adapter", "{0D57EA01-FDDF-4176-8857-B777F7404F4B}"
@@ -102,11 +103,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisitorPattern", "VisitorPa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "23_FluentInterface_Chaining", "23_FluentInterface_Chaining", "{A372CA58-F673-41A9-A5DD-AB0CEE3B8498}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentInterfaceChaining", "FluentInterfaceChaining\FluentInterfaceChaining.csproj", "{3D3C2461-59DE-4FB3-B6D0-C9DC692F51CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentInterfaceChaining", "FluentInterfaceChaining\FluentInterfaceChaining.csproj", "{3D3C2461-59DE-4FB3-B6D0-C9DC692F51CE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "24_ImmutableObjcts", "24_ImmutableObjcts", "{4EDCD57F-D50F-45A5-9967-E5BA61B7F855}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmutableObj", "ImmutableObj\ImmutableObj.csproj", "{6CEAFC4E-2341-4F16-9C8D-C926FF2CA58C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImmutableObj", "ImmutableObj\ImmutableObj.csproj", "{6CEAFC4E-2341-4F16-9C8D-C926FF2CA58C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
